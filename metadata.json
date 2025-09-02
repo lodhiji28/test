@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Quiz Generator",
+  "description": "A dynamic quiz application that generates MCQs based on a user-provided topic using the Gemini API. Features include a timed quiz, detailed results, performance analysis, and answer review.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
